@@ -1,0 +1,62 @@
+
+body {
+    color: white;
+    background: yellow;
+    margin: 0px;
+    font-family: "Fredericka the Great", serif;
+  }
+  
+  header {
+    border-bottom: solid 10px rgb(42, 122, 228);
+    padding: 5px;
+    font-size: 50px;
+    color: rgb(42, 122, 228);
+    display: flex;
+    justify-content: center;
+  }
+  
+  section {
+    background: rgb(0, 0, 0);
+    padding-bottom: 5px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .chamada-texto {
+    margin-right: 10%;
+  }
+  
+  h1 {
+    font-size: 80px;
+    color: yellow;
+  }
+  
+  p {
+    font-size: 80px;
+    color: yellow;
+  }
+
+  img {
+    height: 200px;
+    
+  }
+
+  h2 {
+    font-size: 80px;
+    color: yellow;
+  }
+  
+  p {
+    font-size: 80px;
+    color: yellow;
+  }
+
+  img {
+    height: 200px;
+    
+  }
+
+
+
+
